@@ -1,2 +1,2 @@
 # AI-ML-algo-implementation
-Naive bayes, hill climb, A* ,AO* atc algorithms 
+Naive bayes, hill climb, A* ,AO* etc algorithms 
